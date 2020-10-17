@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MoviesMTMDB</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="poster">Movie poster</string>
+    <string name="big_poster_movie">Movie poster</string>
+    <string name="label_title">Title:</string>
+    <string name="label_original_title">Original title:</string>
+    <string name="label_release_date">Release date:</string>
+    <string name="label_overview">Overview:</string>
+    <string name="main">Main</string>
+    <string name="removed_from_favourite">Deleted from favourites movies</string>
+    <string name="added_to_favourite">Added to favourites movies</string>
+    <string name="label_trailer">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+    <string name="favourite">Favourite</string>
+    <string name="add_to_favourite_list">Add to favourite list</string>
+    <string name="youtube_logo">YouTube logo</string>
+</resources>
