@@ -11,7 +11,7 @@ import com.galagdev.moviesmtmdb.model.api.ApiFactoryMovie;
 import com.galagdev.moviesmtmdb.model.api.ApiServiceMovie;
 import com.galagdev.moviesmtmdb.model.data.MovieDatabase;
 import com.galagdev.moviesmtmdb.model.pojo.Movie;
-import com.galagdev.moviesmtmdb.util.Constant;
+import com.galagdev.moviesmtmdb.model.util.Constant;
 
 import java.util.List;
 import java.util.Locale;
@@ -82,12 +82,12 @@ public class MovieViewModel extends AndroidViewModel {
                         database.getMovieDao().deleteAllMovies();
                     }
                     database.getMovieDao().insertMovies(moviesForUpdate);
-                    page++;
                 });
         compositeDisposable.add(disposableInsert);
     }
 
     public void continueLoadMovie() {
+        page++;
         loadMovies();
     }
 

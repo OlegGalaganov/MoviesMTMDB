@@ -21,7 +21,7 @@ import com.galagdev.moviesmtmdb.model.pojo.FavouriteMovie;
 import com.galagdev.moviesmtmdb.model.pojo.Movie;
 import com.galagdev.moviesmtmdb.model.pojo.Review;
 import com.galagdev.moviesmtmdb.model.pojo.Trailer;
-import com.galagdev.moviesmtmdb.util.Constant;
+import com.galagdev.moviesmtmdb.model.util.Constant;
 import com.galagdev.moviesmtmdb.view.adapters.ReviewsAdapter;
 import com.galagdev.moviesmtmdb.view.adapters.TrailersAdapter;
 import com.galagdev.moviesmtmdb.viewmodel.FavouriteMovieViewModel;

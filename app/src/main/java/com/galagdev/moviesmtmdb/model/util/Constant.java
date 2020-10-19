@@ -1,4 +1,4 @@
-package com.galagdev.moviesmtmdb.util;
+package com.galagdev.moviesmtmdb.model.util;
 
 public abstract class Constant {
 

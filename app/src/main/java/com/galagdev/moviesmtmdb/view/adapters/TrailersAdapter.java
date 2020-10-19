@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.galagdev.moviesmtmdb.R;
 import com.galagdev.moviesmtmdb.model.pojo.Trailer;
-import com.galagdev.moviesmtmdb.util.Constant;
+import com.galagdev.moviesmtmdb.model.util.Constant;
 
 import java.util.ArrayList;
 

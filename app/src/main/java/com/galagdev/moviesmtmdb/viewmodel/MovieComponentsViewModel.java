@@ -11,7 +11,7 @@ import com.galagdev.moviesmtmdb.model.api.ApiFactoryMovieComponents;
 import com.galagdev.moviesmtmdb.model.api.ApiServiceMovieComponents;
 import com.galagdev.moviesmtmdb.model.pojo.Review;
 import com.galagdev.moviesmtmdb.model.pojo.Trailer;
-import com.galagdev.moviesmtmdb.util.Constant;
+import com.galagdev.moviesmtmdb.model.util.Constant;
 
 import java.util.List;
 import java.util.Locale;

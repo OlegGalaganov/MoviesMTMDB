@@ -15,7 +15,7 @@ import android.view.MenuItem;
 
 import com.galagdev.moviesmtmdb.R;
 import com.galagdev.moviesmtmdb.model.pojo.Movie;
-import com.galagdev.moviesmtmdb.util.Constant;
+import com.galagdev.moviesmtmdb.model.util.Constant;
 import com.galagdev.moviesmtmdb.view.adapters.MovieAdapter;
 import com.galagdev.moviesmtmdb.viewmodel.FavouriteMovieViewModel;
 
